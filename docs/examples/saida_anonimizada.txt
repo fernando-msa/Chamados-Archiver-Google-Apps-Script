@@ -1,0 +1,8 @@
+Pasta destino:
+Chamados TI/Rasptelles/2026/04 - Abril/
+
+Arquivo gerado:
+OS_202699999_2026-04-04_08-30.pdf
+
+Linha de log:
+2026-04-04_08-30 | Rasptelles | OS #202699999 | OS202699999 CRIADA COM SUCESSO! | OS_202699999_2026-04-04_08-30.pdf

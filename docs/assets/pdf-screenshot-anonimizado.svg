@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760">
+  <rect width="1100" height="760" fill="#f2f4f8"/>
+  <rect x="190" y="40" width="720" height="680" rx="10" fill="#ffffff" stroke="#d9dee8"/>
+  <rect x="220" y="80" width="660" height="120" rx="6" fill="#1a5276"/>
+  <text x="250" y="130" font-family="Arial" font-size="28" fill="#ffffff" font-weight="700">OS Manutenção — #202699999</text>
+  <text x="250" y="160" font-family="Arial" font-size="16" fill="#ecf3f8">Assunto: OS202699999 CRIADA COM SUCESSO!</text>
+  <text x="250" y="184" font-family="Arial" font-size="16" fill="#ecf3f8">Remetente: sistema@rasptelles.com.br</text>
+  <text x="710" y="184" font-family="Arial" font-size="14" fill="#ecf3f8">Rasptelles</text>
+  <rect x="220" y="230" width="660" height="450" rx="6" fill="#f7f9fc" stroke="#dfe4ee"/>
+  <text x="250" y="275" font-family="Courier New" font-size="18" fill="#263238">Solicitante: [NOME ANONIMIZADO]</text>
+  <text x="250" y="310" font-family="Courier New" font-size="18" fill="#263238">Setor: [SETOR ANONIMIZADO]</text>
+  <text x="250" y="345" font-family="Courier New" font-size="18" fill="#263238">Descrição: Impressora sem conexão na rede.</text>
+  <text x="250" y="630" font-family="Arial" font-size="14" fill="#8a94a6">Exemplo ilustrativo anonimizado do PDF gerado pelo script.</text>
+</svg>
