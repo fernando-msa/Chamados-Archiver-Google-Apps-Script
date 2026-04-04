@@ -35,7 +35,6 @@ Exemplo visual (anonimizado) de como o PDF final fica:
 De: sistema@rasptelles.com.br
 Assunto: OS202699999 CRIADA COM SUCESSO!
 Data: 04/04/2026 08:30
-Corpo:
 Solicitante: [NOME ANONIMIZADO]
 Setor: [SETOR ANONIMIZADO]
 Descrição: Impressora sem conexão na rede.
