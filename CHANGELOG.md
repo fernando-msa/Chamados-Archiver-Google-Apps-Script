@@ -10,4 +10,4 @@
 ### Changed
 - README reorganizado com identidade visual de coleção **Gmail Automation Toolkit**.
 - Versionamento documentado como `v1.0.0`.
-- Cabeçalho do script atualizado para `Versão: 1.0.0`.
+- Cabeçalho do script atualizado para `Versão: v1.0.0`.
