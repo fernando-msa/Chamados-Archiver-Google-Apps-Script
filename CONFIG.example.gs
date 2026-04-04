@@ -1,4 +1,4 @@
-// Copie este bloco para o seu projeto Apps Script e ajuste os valores.
+// Substitua o bloco `var CONFIG` existente em `chamados_archiver.gs` por este e ajuste os valores.
 var CONFIG = {
   PASTA_RAIZ_ID: "SEU_ID_DE_PASTA_NO_DRIVE",
   FUSO_HORARIO:  "GMT-3",
