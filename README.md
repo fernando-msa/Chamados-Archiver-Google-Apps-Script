@@ -62,7 +62,7 @@ OS_202699999_2026-04-04_08-30.pdf
 
 1. Crie um projeto no Google Apps Script.
 2. Cole o conteúdo de `chamados_archiver.gs`.
-3. Copie `CONFIG.example.gs` para o bloco `CONFIG` do script e preencha os valores.
+3. Substitua o bloco `CONFIG` existente em `chamados_archiver.gs` pelo conteúdo de `CONFIG.example.gs` e preencha os valores (não cole um segundo bloco `var CONFIG`).
 4. Configure filtros e marcadores no Gmail.
 5. Crie gatilho para rodar `arquivarChamados` (ex.: a cada hora).
 
