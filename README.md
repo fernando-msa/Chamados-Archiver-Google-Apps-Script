@@ -2,7 +2,7 @@
 
 > **Coleção:** Gmail Automation Toolkit  
 > **Módulo:** Chamados Archiver  
-> **Versão:** `v1.0.0`
+> **Versão:** `1.0.0`
 
 Automação para capturar ordens de serviço recebidas via Gmail (Rasptelles, Ksys e SMED), converter em PDFs padronizados e organizar no Google Drive por sistema, ano e mês.
 
