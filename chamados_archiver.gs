@@ -2,7 +2,7 @@
 // Gmail Automation Toolkit — Chamados Archiver (HAMA)
 // Google Apps Script
 // Autor: Fernando S. De Santana Júnior
-// Versão: 1.0.0
+// Versão: v1.0.0
 // ============================================================
 //
 // FONTES:
